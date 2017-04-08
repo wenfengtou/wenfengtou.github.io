@@ -1,27 +1,15 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
+  name: wenfengtou
+  url: https://github.com/wenfengtou
 
 - sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
-
-- sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
-
-- sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
-
-- sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
+  name: 九九叔
+  url: https://juejin.im/user/58d21e7f61ff4b0060429e4c
 
 - sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
+  name: 九九叔
+  url: https://www.zhihu.com/people/wen-feng-tou/
 
-- sitename: 豆瓣
-  name: 壮哥不胖
-  url: http://www.douban.com/people/freedim
+- sitename: 简书
+  name: 九九叔
+  url: http://www.jianshu.com/u/0279fa414ea4
