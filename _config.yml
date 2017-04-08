@@ -6,7 +6,7 @@ url: http://mazhuang.org
 date_format: "ordinal"
 title: 九九叔
 subtitle: “大家好，我是九九叔”
-description: “九九叔的个人博客"
+description: 九九叔的github之家
 keywords: 九九叔, JiuJiuShu, jjslogin, JiuJiuShu
 favicon: /favicon.ico
 timezone: Asia/Shenzhen
@@ -19,7 +19,7 @@ side_bar_repo_limit: 5
 author: JiuJiuShu
 organization: OPPO, Inc.
 organization_url: http://www.oppo.com
-github_username: qianmayi@gmail.com
+github_username: wenfengtou
 location: Shenzhen, China
 email: qianmayi@gmail.com
 
