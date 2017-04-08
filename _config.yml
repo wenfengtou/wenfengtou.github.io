@@ -4,24 +4,24 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 九九叔
+subtitle: “大家好，我是九九叔”
+description: “九九叔的个人博客"
+keywords: 九九叔, JiuJiuShu, jjslogin, JiuJiuShu
 favicon: /favicon.ico
-timezone: Asia/Shanghai
+timezone: Asia/Shenzhen
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: Sogou, Inc.
-organization_url: https://www.sogou.com
-github_username: mzlogin
-location: Beijing, China
-email: chumpma@gmail.com
+author: JiuJiuShu
+organization: OPPO, Inc.
+organization_url: http://www.oppo.com
+github_username: qianmayi@gmail.com
+location: Shenzhen, China
+email: qianmayi@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -78,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: wenfengtou/mzlogin.github.io
 
 # ---------------- #
 #      Comments    #
